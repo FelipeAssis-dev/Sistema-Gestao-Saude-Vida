@@ -3,7 +3,7 @@
 **Instituto Federal do Triângulo Mineiro (IFTM) — Campus Uberlândia Centro**  
 **Curso:** Tecnologia em Sistemas para Internet  
 **Professor:** Gustavo Prado  
-**Alunos:** Luanny Victoria, Felipe Alcantara, Laila Cristina Ribeiro Alves
+**Alunos:** Luanny Victoria Araújo Saito, Felipe Alcantara de Assis, Laila Cristina Ribeiro Alves
 
 ---
 
